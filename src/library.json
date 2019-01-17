@@ -58,7 +58,9 @@
   "rodando": "executando",
   "background": "segundo plano",
   "um app": "uma app",
-  "app": "aplicação"
-
+  "app": "aplicação",
+  "cluster": "grupo",
+  "master/slave": "chefe e escravos",
+  "stock option": "incentivos",
 
 }
