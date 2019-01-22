@@ -65,5 +65,14 @@
   "token": "chave",
   "plugin": "extensão",
   "plugar": "conectar",
-  "widget": "ferramenta"
+  "widget": "ferramenta",
+  "commit": "conjunto de mudanças",
+  "commitar": "enviar um conjunto de mudanças",
+  "push":  "enviar todos os seus commits para o repositório remoto",
+  "status": "estado",
+  "markdown": "linguagem de marcação",
+  "nosql": "banco de dados não relacional",
+  "tdd": "desenvolvimento orientado por testes",
+  "regexp": "expressões regulares",
+  "ide": "ambiente de desenvolvimento integrado"
 }
