@@ -1,6 +1,6 @@
 <p align="center"><img src="/src/medias/avatar.svg" alt="Avatar" width="200"></p>
 
-# Desprogramatizador
+# Desprogramatizador (alpha)
 
 ![Travis](https://img.shields.io/travis/ganobrega/desprogramatizador.svg)
 [![license](https://img.shields.io/github/license/ganobrega/desprogramatizador.svg)](./license.md)
