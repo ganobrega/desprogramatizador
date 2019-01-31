@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.ce98051cfcd7b742f907996e205a9b38.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.7f50b1934e89e7646f7c332a613caf6d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.8e32465cff4bf9f161db33468bcd1771.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.d9f0abfafc84dc6742995d4cb729f2b8.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.f2a067cdb3277595c5473167a7ebe15a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.7765b3e00b6691b75f555dfe0ff4b26e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Desprogramatizador",
+  "short_name": "Desprogramatizador",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Traduza a língua do pessoal de TI",
+  "background_color": "#71A534",
+  "theme_color": "#71A534"
+}
