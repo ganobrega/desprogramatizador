@@ -63,7 +63,7 @@
   "o setup": "a configuração",
   "plugar": "conectar",
   "plugin": "extensão",
-  "push":  "sincronizar alterações na núvem",
+  "push":  "enviar",
   "regexp": "expressões regulares",
   "repo": "projeto",
   "repositório": "projeto",
@@ -92,5 +92,6 @@
   "uma gambiarra": "um método alternativo",
   "url": "endereço",
   "vm": "máquina virtual",
-  "widget": "ferramenta"
+  "widget": "ferramenta",
+  "syntax": "regras de linguagem"
 }
