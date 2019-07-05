@@ -93,5 +93,6 @@
   "url": "endereço",
   "vm": "máquina virtual",
   "widget": "ferramenta",
-  "syntax": "regras de linguagem"
+  "syntax": "regras de linguagem",
+  "high-order-function": "função que executa outra função"
 }
