@@ -94,5 +94,6 @@
   "vm": "máquina virtual",
   "widget": "ferramenta",
   "syntax": "regras de linguagem",
-  "high-order-function": "função que executa outra função"
+  "high-order-function": "função que executa outra função",
+  "pog": "programação orientada a gambiarra"
 }
